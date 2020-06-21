@@ -16,7 +16,7 @@ Features
 
 License
 -------
-RuneWatch External Plugin is licensed under the BSD 2-Clause License. See LICENSE for details.
+WDR Banlist is licensed under the BSD 2-Clause License. See LICENSE for details.
 
 Author
 ------
